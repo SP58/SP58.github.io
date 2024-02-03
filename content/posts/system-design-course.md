@@ -13,7 +13,7 @@ cover:
   alt: System-Design
   hiddenInList: false
   hiddenInSingle: false
-math: false
+math: true
 ---
 
 
