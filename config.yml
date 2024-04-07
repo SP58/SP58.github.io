@@ -1,5 +1,5 @@
 baseURL: "https://sp58.github.io/"
-title: Samir Paul
+title: sp58
 paginate: 5
 theme: [PaperMod]
 
@@ -48,8 +48,8 @@ disqusShortname: samirpaul
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Technical blog for developers. Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Prep."
-  author: Samir Paul
+  description: "sp58.github.io"
+  author: sp58
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -74,7 +74,7 @@ params:
 
   profileMode:
     enabled: false
-    title: Samir Paul
+    title: sp58
     imageUrl: "/avatar.webp"
     imageTitle: Samir Paul
     # imageWidth: 120
@@ -97,16 +97,16 @@ params:
   socialIcons:
     - name: LinkedIn
       title: Connect with me on LinkedIn
-      url: "https://linkedin.com/in/SamirPaul"
+      url: "#"
     - name: GitHub
       title: View Source on Github
-      url: "https://github.com/SamirPaulb"
+      url: "#"
     - name: X
       title: Connect on X/Twitter
-      url: "https://twitter.com/SamirPaulb"
+      url: "#"
     - name: Instagram
       title: Follow me on Instagram
-      url: "https://www.instagram.com/SamirPaulb"
+      url: "#"
     - name: RSS
       title: RSS Feeds
       url: "index.xml"
@@ -124,15 +124,15 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "vJAOBxbJTCK2vXG-hLFeGsoC9hXgFlCpuJJ8AcJLROQ"
+      SiteVerificationTag: "#"
     bing:
-      SiteVerificationTag: "1A92FC2EC113F8616A21D76DA684A133"
+      SiteVerificationTag: "#"
     yandex:
-      SiteVerificationTag: "fe6a06c57be84984"
+      SiteVerificationTag: "#"
     pinterest:
-      SiteVerificationTag: "24bac6e1fbf1750de40d59bb788d9dd9"
+      SiteVerificationTag: "#"
     norton:
-      SiteVerificationTag: "j7w6winrjctu1-mcfpposj35ae-2txdr3qhqt9edmam0gf98j9qtpixft-qv452wjund2cyc9jacd71w81ee6addfggzcmr-affl9b3eblxul7768d9d5dh2fjkupp1h"
+      SiteVerificationTag: "#"
 
   assets:
     disableHLJS: true
